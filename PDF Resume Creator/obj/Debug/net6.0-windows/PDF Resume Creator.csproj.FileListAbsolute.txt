@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\obj\Debug\net6.0-windows\PDF Resume Creator.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\obj\Debug\net6.0-windows\PDF_Resume_Creator.Form1.resources
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\obj\Debug\net6.0-windows\PDF Resume Creator.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\obj\Debug\net6.0-windows\PDF Resume Creator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\obj\Debug\net6.0-windows\PDF Resume Creator.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\obj\Debug\net6.0-windows\PDF Resume Creator.AssemblyInfo.cs
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\obj\Debug\net6.0-windows\PDF Resume Creator.csproj.CoreCompileInputs.cache
