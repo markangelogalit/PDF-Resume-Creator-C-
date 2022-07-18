@@ -12,6 +12,9 @@ using PdfSharp;
 using PdfSharp.Pdf;
 using PdfSharp.Drawing;
 using System.Diagnostics;
+using Newtonsoft.Json.Serialization;
+using Newtonsoft.Json.Linq;
+using System.IO;
 
 
 namespace PDF_Resume_Creator
@@ -130,6 +133,7 @@ namespace PDF_Resume_Creator
                     int BottomLeft = 200;
                     int BottomRight = 200;
 
+
                     graph.DrawString("EXPERIENCE:", bigfont, XBrushes.Black, new XRect(marginleft, initialleft + 65, page.Width.Point, page.Height.Point), XStringFormats.BottomLeft);
                     graph.DrawString(WorkExperience, smallfont, XBrushes.Black, new XRect(marginleft, initialleft + 110, page.Width.Point, page.Height.Point), XStringFormats.BottomLeft);
 
@@ -142,7 +146,7 @@ namespace PDF_Resume_Creator
 
                     pdf.Save(saveFileDialog.FileName);
                 }
-                MessageBox.Show("Thank you for using this program.");
+                MessageBox.Show("Thank you for taking the time to use this program.");
 
             }
             Application.Restart();

@@ -5,3 +5,19 @@ C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\obj\Debug\net6
 C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\obj\Debug\net6.0-windows\PDF Resume Creator.AssemblyInfoInputs.cache
 C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\obj\Debug\net6.0-windows\PDF Resume Creator.AssemblyInfo.cs
 C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\obj\Debug\net6.0-windows\PDF Resume Creator.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\bin\Debug\net6.0-windows\PDF Resume Creator.exe
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\bin\Debug\net6.0-windows\PDF Resume Creator.deps.json
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\bin\Debug\net6.0-windows\PDF Resume Creator.runtimeconfig.json
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\bin\Debug\net6.0-windows\PDF Resume Creator.dll
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\bin\Debug\net6.0-windows\PDF Resume Creator.pdb
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\bin\Debug\net6.0-windows\PdfSharp.Charting.dll
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\bin\Debug\net6.0-windows\PdfSharp.dll
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\bin\Debug\net6.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\bin\Debug\net6.0-windows\de\PdfSharp.resources.dll
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\obj\Debug\net6.0-windows\PDF Resume Creator.csproj.CopyComplete
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\obj\Debug\net6.0-windows\PDF Resume Creator.dll
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\obj\Debug\net6.0-windows\refint\PDF Resume Creator.dll
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\obj\Debug\net6.0-windows\PDF Resume Creator.pdb
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\obj\Debug\net6.0-windows\PDF Resume Creator.genruntimeconfig.cache
+C:\Users\admin\source\repos\PDF Resume Creator\PDF Resume Creator\obj\Debug\net6.0-windows\ref\PDF Resume Creator.dll
