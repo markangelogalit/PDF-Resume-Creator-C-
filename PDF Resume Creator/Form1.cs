@@ -47,8 +47,56 @@ namespace PDF_Resume_Creator
 
         private void button1_Click(object sender, EventArgs e)
         {
+            string jsonFromFile;
+            using (var reader = new StreamReader(_fileName))
+            {
+                jsonFromFile = reader.ReadToEnd();
+            }
+            var resumeFromJson = Newtonsoft.Json.JsonConvert.DeserializeObject<Resume>(jsonFromFile);
+
+            string FirstName = resumeFromJson.FirstName;
+            string MiddleName = resumeFromJson.MiddleName;
+            string Surname = resumeFromJson.Surname;
+            string Address = resumeFromJson.Address;
+            string ContactNumber = resumeFromJson.ContactNumber;
+            string Email = resumeFromJson.Email;
+
+            string FirstSkill = resumeFromJson.FirstSkill;
+            string SecondSkill = resumeFromJson.SecondSkill;
+            string ThirdSkill = resumeFromJson.ThirdSkill;
+            string FourthSkill = resumeFromJson.FourthSkill;
+            string FifthSkill = resumeFromJson.FifthSkill;
+
+            string WorkExperience = resumeFromJson.WorkExperience;
+
+            string Tertiary = resumeFromJson.Tertiary;
+            string UpperSecondary = resumeFromJson.UpperSecondary;
+            string Secondary = resumeFromJson.Secondary;
+            string Primary = resumeFromJson.Primary;
+
+            using (SaveFileDialog saveFileDialog = new SaveFileDialog()) ;
+
 
         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         private void label20_Click(object sender, EventArgs e)
         {
@@ -71,6 +119,21 @@ namespace PDF_Resume_Creator
         }
 
         private void label13_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbl7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbl14_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbl15_Click(object sender, EventArgs e)
         {
 
         }
