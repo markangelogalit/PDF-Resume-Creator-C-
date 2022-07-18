@@ -28,25 +28,25 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
+            this.btn1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // button1
+            // btn1
             // 
-            this.button1.Location = new System.Drawing.Point(363, 113);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btn1.Location = new System.Drawing.Point(74, 129);
+            this.btn1.Name = "btn1";
+            this.btn1.Size = new System.Drawing.Size(75, 23);
+            this.btn1.TabIndex = 0;
+            this.btn1.Text = "CREATE";
+            this.btn1.UseVisualStyleBackColor = true;
+            this.btn1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.button1);
+            this.ClientSize = new System.Drawing.Size(251, 323);
+            this.Controls.Add(this.btn1);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -55,6 +55,6 @@
 
         #endregion
 
-        private Button button1;
+        private Button btn1;
     }
 }
